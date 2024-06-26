@@ -1,11 +1,3 @@
-# 교점에 별 만들기
-* [프로그래머스 - 교점에 별 만들기 - Level 2](https://school.programmers.co.kr/tryouts/72046/challenges?language=python3)
-### 설계하기
-1. 교점구하기
-2. 교점에서 정수로만 된 값을 찾기
-3. x좌표의 차 y좌표의 차로 "...."로된 리스트를 만들기
-4. "*"의 알맞는 위치에 표시하기
-```
 def solution(line):
     # 정답 리스트
     answer = []
@@ -75,9 +67,3 @@ def solution(line):
             
         answer = point_lst
     return answer
-```
-### 채점 결과
-* 정확성: 24.1
-* 효율성: 0.0
-* 합계: 24.1 / 100.0
-### 오답쓰..
