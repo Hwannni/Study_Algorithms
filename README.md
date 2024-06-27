@@ -24,8 +24,8 @@
 
 * 2024_06_27 Day3
     * minan : level0 문제들은 풀 수 있어서 좋았다. minchur의 코드랑 비교하니 검증의 과정이 없는 것이 문제라는 것을 깨달았다!
-        * [프로그래머스 - level0 - 잘라서 배열로 저장하기]()
-        * [프로그래머스 - level0 - 2차원으로 만들기]()
+        * [프로그래머스 - level0 - 잘라서 배열로 저장하기](https://github.com/Hwannni/Study_Algorithms/blob/main/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EB%B0%B0%EC%97%B4_minan_level0_%EC%9E%98%EB%9D%BC%EC%84%9C%EB%B0%B0%EC%97%B4%EB%A1%9C%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0.py)
+        * [프로그래머스 - level0 - 2차원으로 만들기](https://github.com/Hwannni/Study_Algorithms/blob/main/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EB%B0%B0%EC%97%B4_minan_level0_2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
     * minchur : 오늘은 처음으로 문제풀이와 서로에 코드설명과 코드리뷰를 같는 시간을 가졌다.
         * [프로그래머스 - level0 - 잘라서 배열로 저장하기](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EB%B0%B0%EC%97%B4_minchur_level0_%EC%9E%98%EB%9D%BC%EC%84%9C%EB%B0%B0%EC%97%B4%EB%A1%9C%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0.py)
         * [프로그래머스 - level0 - 2차원으로 만들기](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EB%B0%B0%EC%97%B4_minchur_level0_2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
