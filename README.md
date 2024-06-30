@@ -41,3 +41,7 @@
     * minchur : 오늘은 서로 일정상 각자 풀고 업로드하기로 하였다 앞으로 적응하는 시기가 끝나면 이런식으로 진행할 예정이여서 미리 경험해봐서 좋았다.
         * [프로그래머스 - level0 - 외계어 사전](https://github.com/jiminchur/Study_Algorithms/blob/main/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EC%A7%91%ED%95%A9_minchur_level0_%EC%99%B8%EA%B3%84%EC%96%B4%EC%82%AC%EC%A0%84.py)
         * [프로그래머스 - level0 - 중복된 문자 제거](https://github.com/jiminchur/Study_Algorithms/blob/main/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EC%A7%91%ED%95%A9_minchur_level0_%EC%A4%91%EB%B3%B5%EB%90%9C%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0.py)
+
+* 2024_06_30 Day6
+    * minan : 스택에 대한 공부를 먼저 하고 함수를 이용하니 더 설계하기가 수월했다. 자료구조 공부는 꾸준히!
+    * minchur : 
