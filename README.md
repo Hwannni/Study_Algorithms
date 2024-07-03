@@ -76,5 +76,6 @@
     * [프로그래머스 - level2 - 더 맵게](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%ED%9E%99_minchur_level2_%EB%8D%94%EB%A7%B5%EA%B2%8C.py)
 
 ### 2024_07_03 Day9
+* [💡 Issue](https://github.com/Hwannni/Study_Algorithms/issues/61)
 * 🧑🏻‍💻 minan : 나로 인해 발생한 pull requests 문제를 minchur의 도움으로 간신히 극복했다... 고맙다!! 이슈 작성법에 대한 룰도 어느 정도 갖춰진거 같다.
-* 👨🏽‍💻 minchur : 
+* 👨🏽‍💻 minchur : 현업에서나 팀 프로젝트에서나 충분히 일어날수 있던 일이었던거 같다 잘해결할 수 있어서 다행이였고 너무 좋은 경험이였던거 같다!!
