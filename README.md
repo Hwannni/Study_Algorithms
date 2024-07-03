@@ -45,10 +45,6 @@
 * 2024_06_30 Day6
     * minan : 스택에 대한 공부를 먼저 하고 함수를 이용하니 더 설계하기가 수월했다. 자료구조 공부는 꾸준히!
     * minchur : 아직까지는 문제풀이속도는 안정적인거 같으나 클린코드에 대한 고민을 좀 더 하면서 효율적으로 하는 방법에 대해서 고민을 해봐야 할거같다.
-        * [프로그래머스 - level0 - 컨트롤 제트](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EC%8A%A4%ED%83%9D_minchur_level0_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EC%A0%9C%ED%8A%B8.py)
-        * [프로그래머스 - level1 - 같은 숫자는 싫어](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%EC%8A%A4%ED%83%9D_minchur_level1_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.py)
 * 2024_07_01 Day7
     * minan : level2는 아직 풀기 어려운거 같다. 그래도 전보다 자료구조에 대한 내용이 머리에 들어오고 있다.
     * minchur : 좀 더 효율적인 방면에서 어떻게하면 깔끔하게 코드를 짤 수 있을까라는 생각으로 좋게 코딩한거 같다!!
-        * [프로그래머스 - level0 - 배열 회전시키기](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%ED%81%90%EC%99%80%EB%8D%B0%ED%81%AC_minchur_level0_%EB%B0%B0%EC%97%B4%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.py)
-        * [프로그래머스 - level2 - 기능개발](https://github.com/jiminchur/Study_Algorithms/blob/minchur/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%20%EC%A0%84%EB%9E%B5%20%3A%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8/%ED%81%90%EC%99%80%EB%8D%B0%ED%81%AC_minchur_level2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
