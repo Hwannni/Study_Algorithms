@@ -79,3 +79,7 @@
 * [💡 Issue](https://github.com/Hwannni/Study_Algorithms/issues/61)
 * 🧑🏻‍💻 minan : 나로 인해 발생한 pull requests 문제를 minchur의 도움으로 간신히 극복했다... 고맙다!! 이슈 작성법에 대한 룰도 어느 정도 갖춰진거 같다.
 * 👨🏽‍💻 minchur : 현업에서나 팀 프로젝트에서나 충분히 일어날수 있던 일이었던거 같다 잘해결할 수 있어서 다행이였고 너무 좋은 경험이였던거 같다!!
+
+### 2024_07_04 Day10
+* 🧑🏻‍💻 minan : DFS에 관한 문제였지만 while문으로 문제를 푼 것이 아쉽다. 다른 알고리즘 문제를 풀땐 최대한 배운 것들을 상기하며 풀어봐야겠다.
+* 👨🏽‍💻 minchur : 
